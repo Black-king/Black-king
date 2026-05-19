@@ -1,3 +1,6 @@
+<img width="5120" height="2700" alt="1343193" src="https://github.com/user-attachments/assets/be8faf5c-fb63-4b61-98d5-371eb17053ff" />
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Black-king/Black-king/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Black-king/Black-king/output/github-contribution-grid-snake.svg">
